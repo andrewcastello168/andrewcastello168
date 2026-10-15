@@ -1,37 +1,51 @@
-# 👋 Hey, I'm Andrew Castello Purba
+# Andrew Castello Purba
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+%26+Distributed+Systems;Building+Reliable+Software;Turning+Complex+Problems+Into+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Software+Engineer;Backend+%26+Distributed+Systems;Enterprise+Application+Development;Building+Reliable+Software" alt="Andrew's engineering focus" />
 </p>
 
 <p align="center">
   <a href="https://github.com/andrewcastello168">
-    <img src="https://img.shields.io/badge/GitHub-andrewcastello168-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-7C3AED?style=for-the-badge" alt="Backend Engineering"/>
-  <img src="https://img.shields.io/badge/Interests-Distributed%20Systems-4F46E5?style=for-the-badge" alt="Distributed Systems"/>
+  <a href="https://www.linkedin.com/in/andrew-castello-purba/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://andrew-castello-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
-  <b>Building reliable systems. Automating complex workflows. Engineering for scale.</b>
+  <b>Building reliable backend systems, scalable applications, and distributed workflows.</b>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a software engineer passionate about building backend services, internal applications, automation systems, and reliable software architectures.
+I'm a Software Engineer specializing in enterprise application development, backend engineering, and distributed job processing.
 
-I enjoy solving engineering problems that go beyond simply making an application work — from designing distributed job processing systems and fault-tolerant workflows to optimizing database performance and improving system observability.
+My experience spans enterprise applications, centralized background processing, database optimization, operational automation, and data pipelines.
 
-- 🔭 **Currently working on:** Backend engineering, internal applications, and distributed job processing.
-- ⚙️ **Core interests:** Backend architecture, distributed systems, automation, and reliability engineering.
-- 🧠 **Engineering mindset:** Build practical solutions, understand the underlying systems, and continuously improve.
-- 🛠️ **Favorite challenges:** Job orchestration, retries and recovery, database optimization, and resource efficiency.
-- 📱 **Application development:** Building web and mobile applications from backend APIs to user-facing interfaces.
-- 🌱 **Always learning:** System design, infrastructure, performance engineering, and software architecture.
+I enjoy solving engineering problems involving system reliability, resource efficiency, performance, and maintainable application architecture.
 
-> I enjoy building software that doesn't just work under ideal conditions, but can also handle failures, recover gracefully, and remain maintainable as it grows.
+- 🏢 **Current role:** Software Engineering Supervisor — Indomaret Group
+- ⚙️ **Core focus:** Backend engineering, distributed processing, and enterprise applications
+- 🚀 **Engineering interests:** Queue orchestration, fault tolerance, observability, and performance optimization
+- 📱 **Product development:** Building mobile applications and RESTful backend services
+- 🎓 **Education:** Bachelor of Computer Science, Universitas Tarumanagara — GPA 3.97/4.00
+
+---
+
+## 🏆 Engineering Highlights
+
+- **150+ branches:** Worked on centralized background processing and internal applications supporting branch operations.
+- **Memory optimization:** Re-architected branch-level background services into centralized workers using BullMQ and Redis, reducing aggregate memory consumption from hundreds of GB to under 1 GB.
+- **Job reliability:** Designed database-backed job lifecycle tracking, heartbeat monitoring, duplicate-run prevention, configurable retries, and manual recovery workflows.
+- **Database performance:** Improved PostgreSQL queries, stored procedures, and transaction handling to address deadlocks and lock contention.
+- **Enterprise integration:** Developed business applications and operational modules integrated with SAP R/3 workflows.
+- **Data engineering:** Built forecasting workflows covering extraction, preprocessing, model evaluation, execution, storage, and dashboard visualization.
 
 ---
 
@@ -40,145 +54,129 @@ I enjoy solving engineering problems that go beyond simply making an application
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,php,java,python,dart" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,php,java,python,dart" alt="TypeScript, JavaScript, PHP, Java, Python, Dart"/>
 </p>
 
 ### Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,spring" alt="Backend frameworks"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,spring" alt="Node.js, NestJS, Express, Laravel, Spring"/>
+</p>
+
+### Queues & Distributed Processing
+
+<p>
+  <img src="https://img.shields.io/badge/BullMQ-Distributed%20Jobs-EF4444?style=for-the-badge" alt="BullMQ"/>
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis"/>
+  <img src="https://skillicons.dev/icons?i=docker,linux" alt="Docker and Linux"/>
 </p>
 
 ### Frontend & Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,reactnative" alt="Frontend and mobile technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter" alt="React, Next.js, Flutter"/>
+  <img src="https://img.shields.io/badge/React%20Native-Mobile%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Expo-Mobile%20Platform-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
 </p>
 
-### Databases & Messaging
+### Databases & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" alt="Databases and messaging"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,mongodb,firebase,supabase" alt="PostgreSQL, MySQL, Oracle, MongoDB, Firebase, Supabase"/>
+  <img src="https://img.shields.io/badge/Google%20BigQuery-Data%20Analytics-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
 </p>
 
-### Infrastructure & Developer Tools
+### Infrastructure & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,postman" alt="Infrastructure and developer tools"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,postman" alt="Docker, Git, GitHub, Linux, Bash, Postman"/>
 </p>
 
-### Engineering Toolkit
-
-- **Background processing:** BullMQ, Redis, Node.js workers, scheduled jobs.
-- **Database engineering:** PostgreSQL, MySQL, Oracle, query optimization, transaction processing.
-- **Application architecture:** REST APIs, service separation, asynchronous processing.
-- **Reliability:** Retry policies, idempotency, job lifecycle tracking, error handling, recovery workflows.
-- **Development practices:** Git, code quality, structured logging, testing, and deployment standardization.
+**Additional experience:** Hibernate, Oracle SQL, SAP R/3 integration, Google Cloud Storage, Colab Enterprise, Looker Studio, PM2, cron scheduling, and AWS S3.
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Professional Experience
 
-### 💰 Fyntra — Personal Finance Application
+### Indomaret Group
+**Software Engineering Supervisor** · May 2026 – Present
 
-**Your money, at a glance.**
+- Re-architected distributed background processing into centralized head-office workers, reducing aggregate memory consumption from hundreds of GB to under 1 GB across 150+ branches.
+- Designed job lifecycle tracking, heartbeat monitoring, duplicate-run prevention, configurable retry policies, and manual retry APIs integrated with monitoring.
+- Developed internal applications and RESTful APIs using TypeScript, NestJS, Node.js, Laravel, and PostgreSQL.
+- Optimized PostgreSQL queries, stored procedures, and transaction handling to address deadlocks and lock contention.
+- Standardized Docker configurations and runtime environments across on-premises Linux servers and cloud infrastructure.
 
-A personal finance mobile application designed to help users manage their finances, understand spending patterns, and make more informed financial decisions.
+### Indomaret Group
+**Management Development Program — IT Specialist, Programmer** · Apr 2025 – Apr 2026
 
-- Track income, expenses, and transfers.
-- Manage multiple financial accounts and balances.
-- Monitor budgets and daily spending limits.
-- Use AI-assisted transaction entry with review before saving.
-- Explore privacy-focused features and biometric authentication.
+- Developed internal applications, rule-based audit processing, and exception reporting.
+- Built operational forecasting and data pipelines using Python, BigQuery, Colab Enterprise, Google Cloud Storage, and Looker Studio.
+- Improved SQL queries, stored procedures, data retrieval, and reporting reliability.
+- Improved structured file-transfer workflows through validation, audit logging, retry handling, and secure data delivery.
 
-**Tech:** React Native · Expo · TypeScript · NestJS · PostgreSQL · Supabase
+### PT. Mayora Indah Tbk
+**Junior Application Developer — Internship** · Feb 2024 – Jan 2025
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-Fyntra-7C3AED?style=for-the-badge&logo=github)](https://github.com/andrewcastello168/fyntra)
+- Developed enterprise portal modules for Import, Purchasing, Accounts Payable, Tax, Maintenance, and Supply Planning.
+- Built operational modules covering work orders, plant maintenance, standard costing, customs clearance, vendor contracts, and reporting.
+- Developed SAP R/3-integrated workflows using Java Spring Framework, Hibernate, Oracle, JavaScript, jQuery, and Kendo UI.
+- Worked with business users to translate operational requirements and edge cases into application features.
 
-### ⚙️ Distributed Job Processing
+### Universitas Tarumanagara
+**Laboratory Instructor** · Sep 2023 – Dec 2023
 
-An engineering portfolio project exploring reliable background job execution, queue orchestration, and worker architecture.
-
-Areas of interest:
-
-- Queue-based job orchestration.
-- Independent workers and asynchronous execution.
-- Configurable retries and failure handling.
-- Duplicate-run prevention and idempotent processing.
-- Job status tracking and operational observability.
-
-**Tech:** Node.js · TypeScript · BullMQ · Redis · PostgreSQL
-
-*This section describes an engineering project direction. Link a public implementation here when it is ready.*
-
-### 📊 Job Monitoring & Recovery
-
-A portfolio project concept focused on visibility into background processing and operational recovery.
-
-Areas of interest:
-
-- Job lifecycle tracking.
-- Structured execution logs.
-- Heartbeat and timeout monitoring.
-- Failure investigation and manual retries.
-- Operational dashboards and recovery workflows.
-
-**Tech:** TypeScript · Node.js · PostgreSQL · REST APIs
-
-*Add the repository link when the public demonstration is available.*
+- Taught more than 200 students across Database Systems, Distributed Systems, and Computer Systems.
+- Delivered practical sessions on database fundamentals, network topology, routing protocols, security, logic gates, circuit design, and PC building.
+- Evaluated assignments, tracked student progress, and provided constructive feedback.
 
 ---
 
-## 🏗️ Engineering Interests
+## 🚀 Featured Project
 
-| Area | What I care about |
-|---|---|
-| Distributed Systems | Reliable communication, queues, workers, and asynchronous workflows |
-| Reliability Engineering | Failure handling, recovery, retries, and idempotency |
-| Performance Engineering | Memory efficiency, query optimization, and throughput |
-| Observability | Structured logs, metrics, execution history, and troubleshooting |
-| Backend Architecture | Maintainable services, clear boundaries, and scalable design |
-| Automation | Eliminating repetitive work through dependable software |
+### Fyntra — Personal Finance Mobile Application
+
+A personal finance application designed to help users manage financial activity through a centralized mobile experience.
+
+- Income, expense, and transfer management.
+- Multiple accounts, budgets, transaction history, and financial dashboard.
+- AI-assisted natural-language transaction entry, converting descriptions into structured drafts for user review and confirmation.
+- Biometric authentication and balance privacy controls.
+- Mobile application integrated with RESTful backend services.
+
+**Stack:** React Native · Expo · TypeScript · NestJS · Node.js · REST APIs
+
+[Portfolio](https://andrew-castello-portfolio.vercel.app/)
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=andrewcastello168&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewcastello168&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewcastello168&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=andrewcastello168&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andrewcastello168&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub profile trophies"/>
-</p>
+---
+
+## 🎓 Education
+
+**Universitas Tarumanagara**  
+Bachelor of Computer Science · GPA 3.97/4.00  
+Jul 2021 – Jan 2025
 
 ---
 
-## 🎯 What I'm Working Toward
+## 🤝 Connect With Me
 
-- Designing more reliable and maintainable backend systems.
-- Deepening my understanding of distributed systems and system design.
-- Building useful applications with thoughtful architecture.
-- Improving performance, observability, and operational reliability.
-- Sharing practical engineering projects and technical knowledge.
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in software engineering, backend architecture, distributed systems, automation, and building products that solve real problems.
+- LinkedIn: [andrew-castello-purba](https://www.linkedin.com/in/andrew-castello-purba/)
+- Portfolio: [andrew-castello-portfolio.vercel.app](https://andrew-castello-portfolio.vercel.app/)
+- GitHub: [andrewcastello168](https://github.com/andrewcastello168)
 
 <p align="center">
-  <a href="https://github.com/andrewcastello168">
-    <img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Keep learning. Keep building. Keep improving.</i>
+  <i>Build with purpose. Engineer for reliability. Keep improving.</i>
 </p>
